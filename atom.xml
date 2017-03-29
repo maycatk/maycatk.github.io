@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>MAYCATK</title>
   <subtitle>设计向</subtitle>
-  <link href="/blog/atom.xml" rel="self"/>
+  <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/blog/"/>
+  <link href="http://yoursite.com/"/>
   <updated>2017-03-29T02:30:04.184Z</updated>
-  <id>http://yoursite.com/blog/</id>
+  <id>http://yoursite.com/</id>
   
   <author>
     <name>zuoxuan</name>
@@ -17,8 +17,8 @@
   
   <entry>
     <title>第一篇</title>
-    <link href="http://yoursite.com/blog/2017/03/29/%E7%AC%AC%E4%B8%80%E7%AF%87/"/>
-    <id>http://yoursite.com/blog/2017/03/29/第一篇/</id>
+    <link href="http://yoursite.com/2017/03/29/%E7%AC%AC%E4%B8%80%E7%AF%87/"/>
+    <id>http://yoursite.com/2017/03/29/第一篇/</id>
     <published>2017-03-29T02:29:21.000Z</published>
     <updated>2017-03-29T02:30:04.184Z</updated>
     
@@ -49,8 +49,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://yoursite.com/blog/2017/03/28/hello-world/"/>
-    <id>http://yoursite.com/blog/2017/03/28/hello-world/</id>
+    <link href="http://yoursite.com/2017/03/28/hello-world/"/>
+    <id>http://yoursite.com/2017/03/28/hello-world/</id>
     <published>2017-03-28T07:24:33.268Z</published>
     <updated>2017-03-28T07:24:33.280Z</updated>
     
